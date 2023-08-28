@@ -1,4 +1,5 @@
 # Car-Craft
 Описание проекта:
 Пользователи могут комбинировать выбранные детали для создания своих собственных автомобилей. 
-![2023-08-25_21-05-19](https://github.com/orlovNikitq/Car-Craft/assets/130779328/8829701a-bba5-46f6-ac1f-d847f922693a)
+
+![2023-08-28_16-21-12](https://github.com/orlovNikitq/Car-Craft/assets/130779328/e4e14d29-2ac4-4110-8cb3-0dbe859a520a)
