@@ -1,0 +1,14 @@
+﻿  App.cpp
+C:\Users\zunderz\Documents\projc#\CarCraft\CarCraft\App.cpp(79,78): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\zunderz\Documents\projc#\CarCraft\CarCraft\App.cpp(79,57): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  CarCraft.cpp
+  Создание кода...
+  CarCraft.vcxproj -> C:\Users\zunderz\Documents\projc#\CarCraft\x64\Debug\CarCraft.exe
